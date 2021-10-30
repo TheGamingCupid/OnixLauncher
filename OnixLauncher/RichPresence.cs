@@ -64,7 +64,7 @@ namespace OnixLauncher
                 {
 
                     LargeImageKey = DateTime.Today.Month == 10 ? "onix-halloween" : "onix",
-                    LargeImageText = "Onix Client",
+                    LargeImageText = "Cupid's Custom RPC",
                     SmallImageKey = smallimage,
                     SmallImageText = version
                 },
@@ -95,7 +95,7 @@ namespace OnixLauncher
                 Assets = new Assets
                 {
                     LargeImageKey = DateTime.Today.Month == 10 ? "onix-halloween" : "onix",
-                    LargeImageText = "Onix Launcher",
+                    LargeImageText = "Cupid's Custom RPC",
                 },
                 Timestamps = new Timestamps
                 {
